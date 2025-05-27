@@ -21,6 +21,11 @@ Expected output
 
 '''
 
+#Author: Ekemini Peter [McCoy McPeter]
+#Description: Original code implementation of distance between points on plane with cartesian coordinate system calculator.
+#Date: 27/05/2025
+#Version: Rev 0
+
 import math
 
 class Point:
